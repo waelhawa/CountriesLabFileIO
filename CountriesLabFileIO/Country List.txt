@@ -1,0 +1,6 @@
+Iraq|Asia|Arabic
+Iran|Asia|Persian
+Germany|Europe|German
+Spain|Europe|Spanish
+United States|North America|English
+Italy|Europe|Italian

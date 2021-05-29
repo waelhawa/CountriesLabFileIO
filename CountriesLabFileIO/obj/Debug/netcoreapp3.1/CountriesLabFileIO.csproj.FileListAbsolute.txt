@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.exe
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.deps.json
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.runtimeconfig.json
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.runtimeconfig.dev.json
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.dll
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\bin\Debug\netcoreapp3.1\CountriesLabFileIO.pdb
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.csprojAssemblyReference.cache
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.AssemblyInfo.cs
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.dll
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.pdb
+F:\GrandCircus\C#\CountriesLabFileIO\CountriesLabFileIO\obj\Debug\netcoreapp3.1\CountriesLabFileIO.genruntimeconfig.cache
